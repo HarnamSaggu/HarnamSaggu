@@ -5,6 +5,6 @@ I'm substantially self taught - have been teaching myself maths and physics sinc
 Started programming with scratch (~7 years old) and HTML and JavaScript (10 years old). <br>
 Taught myself how to design basic electronics at 10, alongside some theory. <br>
  <br>
-I've taken up reading, and am now addicted. In the past year having read more than 5 books all on maths and physics (and some computer science). <br>
+I've taken up reading, and am now addicted. In the past year having read more than 20 books all on maths and physics (and some computer science). <br>
  <br>
 My best work is my proof of (CASIO's) non-programmable calculators being Turing complete. Accomplished by writing a Turing machine using basic mathematical statements.
